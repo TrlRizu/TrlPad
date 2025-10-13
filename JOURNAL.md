@@ -31,3 +31,12 @@ I shall begin my actual schematic prototyping in the next journal!
 
   
 
+## 10/14/2025 - Schematic drafting  
+
+I re-thought the parts I was going to use for this project. It felt that the xiao nrf52840 was more suitable as the guide said it "has wireless capabilities". For some reason again, there were problems with my library imports- I had to install and uninstall, reboot the application a couple times before I could see the footprint.
+
+I spent most of my time researching rotary encoders and the possibility of it being connected with my keyboard matrix. I found some solutions but I am quite puzzled, frankly lost, in their PCB schematics. I made little progress with the project itself as today's work was more researching and asking. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--506625f17c6f939deda9a32bede705cfd578428d/image.png)
+  
+
