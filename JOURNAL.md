@@ -40,3 +40,19 @@ I spent most of my time researching rotary encoders and the possibility of it be
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--506625f17c6f939deda9a32bede705cfd578428d/image.png)
   
 
+## 10/15/2025 - Polishing schematic + Learning lots  
+
+Continued with research: reading blogs regarding rotary encoder, examining the pcb of the split keyboard guide to figure out where the placements of the 'battery sense' and 'test points' should be, why it's important to use a 4-pin only OLED display etc. 
+
+I also asked around why the Resistor values were the way they were in battery sense, but I didn't get an answer to that. I knew the formula but why was it precisely those?
+
+Eventually everything started to click when I looked after seeing this [repo](https://github.com/bytesizedengineering/macropad?tab=readme-ov-file) and [this one](https://palmacas.com/macroboard-diseno/) which was a link attached to hackpad tutorial (well sort of). I also discovered that the xiao seeed was flipped which explained the blue outline colours in the guide compared to what was previously red on my screen: learnt the shortcut 'F'. The keyboard switches, the resistors and capacitors for the rotary encoder had to be flipped too.
+
+I also learnt the difference between SMD diodes and THT diodes, visually at least -THT really does look more beginner-friendly to solder compared to the former. Another thing, I switched my switch keys footprint to mx (previously being choc) for the intent of it being more tactile.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxNywicHVyIjoiYmxvYl9pZCJ9fQ==--5693cf6ed1993e1101b6f271e758c67c9c37d657/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--bb8e0e216c4affdb415110109fcccd4fb2f80c37/image.png)
+
+Not everything is polished yet but I'll amend things soon. Off to another session of learning!  
+
