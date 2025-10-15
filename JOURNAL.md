@@ -56,3 +56,13 @@ I also learnt the difference between SMD diodes and THT diodes, visually at leas
 
 Not everything is polished yet but I'll amend things soon. Off to another session of learning!  
 
+## 10/16/2025 - Routed the PCB  
+
+I opted for a horizontal oriented macro-pad, leaving behind the initial design in mind (I shall revamp my sketches). This came to realization when finding space for the OLED display. The xiao micro-controller has its USB facing sideways too for convenience. When it's assembled I would be able to connect it without the wires going over my laptop keyboard.
+
+I also routed the PCB and added my fill zones! (This)[https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide] and Phil's lab's vid on it proved very useful. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--d9a081cf87130ae6deb2fa5a115de8c7ca7a1588/image.png)
+
+Oh shocks...I just realized, are my keypads not facing me?  
+
