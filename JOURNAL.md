@@ -70,3 +70,22 @@ I also added my fill zones! [This](https://wiki.ai03.com/books/pcb-design/chapte
 
 Oh shocks...I just realized, are my keypads not facing me?  
 
+## 10/17/2025 - PCB edits + 3D model Research  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwNywicHVyIjoiYmxvYl9pZCJ9fQ==--c9c692039e7c0d5ab4a35d3b0e67269985f9ffad/image.png)
+
+Finally, I fixed the switch keys -it now is on the front copper. Below is the alleged PCB that I worked on for the past couple days: 
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--50fc381c769c14bd15b1657032229449a24070d1/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--7e7014e62200a0a9fffb5935c0ad02ba16affdc4/image.png)
+
+I then started to think about the design of my macropad. I've searched a YT vid going through the basics of [fusion 360](https://www.youtube.com/watch?v=WEIpQHWqPVw&list=PLLm7Yjr9z_z07ohtjFGkA5w-j_NMj8B3J) as a refresher. 
+
+Furthermore, I desire to continue the design of a pedal effect, borrowing its rectangular outline and its steep elevation between the pedal and the rotary encoders (for my design that would be between the screen+rotary encoder and the keypads. Here is a first look of the design:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--acd7d535e3ac2e7275c84886214bba2b16891148/image.png)
+
+I know I know there's a lot to work on, but I shall work on this 3d model further
+
+
+  
+
