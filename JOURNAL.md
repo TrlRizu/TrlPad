@@ -89,3 +89,18 @@ I know I know there's a lot to work on, but I shall work on this 3d model furthe
 
   
 
+## 10/18/2025 - 3D model + PCB rerouting  
+
+I first re-routed my PCB after sending it to a discord channel for review. Apparently I needed to make much of my space since my resistors and capacitors were all cramped up. I had to move them but still keep an efficient design. Below is the newly routed PCB (may still make amendments in the future):
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--55f29dda4dc748d1755f24feb608277e8a8c9d4d/image.png)
+
+I also realized that my screen wasn't positioned at a nice place so when I began to see my 3D model, instantly I knew it had to be moved I guess by 5-10mm further to the right. But anyways, this is my first preview of the keyboard design.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb4cd8c713382dc63ef0b25d04eaf67b0a6df9d4/image.png)
+
+I decided that it'd be better if it was inclined by 7 degrees (6-12 degrees was the incline height for keyboards according to Google):
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--40939da3300afa38f81a6ed8bb743048c8e07b6f/image.png)
+
+I guess majority of my time was spent looking through mx switch, rotary encoder and screen blueprints. My brain was always making quick calculations of the possible height + thinking of clearances. I intentionally did not create a USB-C hole on the side for this yet. I thought that having the 1st prototype model ASAP is the goal for today. The design is for sure not yet final, the character of a pedal effect hasn't taken 'effect' yet.   
+
