@@ -104,3 +104,18 @@ I decided that it'd be better if it was inclined by 7 degrees (6-12 degrees was 
 
 I guess majority of my time was spent looking through mx switch, rotary encoder and screen blueprints. My brain was always making quick calculations of the possible height + thinking of clearances. I intentionally did not create a USB-C hole on the side for this yet. I thought that having the 1st prototype model ASAP is the goal for today. The design is for sure not yet final, the character of a pedal effect hasn't taken 'effect' yet.   
 
+## 10/20/2025 - Finalized Case + Re-routed PCB  
+
+I am glad to announce that I am almost finished!
+
+I pushed the rotary encoder further down:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMywicHVyIjoiYmxvYl9pZCJ9fQ==--ece7d2bec7870f3d0e90aa55af43cdbead1b4c4b/image.png)
+
+I addressed the USB port being blocked by the case, it took a while to find the dimensions of the USB type-C. I borrowed some made-cases online however they were made of surface mesh which wasn't compatible with my design. Eventually I found a work-around (lazily). I imported the STEP file of the PCB with the mounted 3D models and from there began to build my USB port.
+
+However more problems arose with this approach. Then so, I decided I was going to build this from the ground up. I started from scratch, built the base, the inclined bottom, the cover for the keyboard matrix and then the screen overlay. The screws still seem to be a problem tho.. I really need help with that.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--e63abc7fa635a0662a3cd19872a613d9f185f6b7/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--65c12c2b0a5b38d77c0adea9560d7aada39bf61b/image.png)
+  
+
