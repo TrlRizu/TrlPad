@@ -931,89 +931,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Mechanical:MountingHole"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom no)
-			(on_board yes)
-			(property "Reference" "H"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MountingHole"
-				(at 0 3.175 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Mounting Hole without connection"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "mounting hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "MountingHole*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_0_1"
-				(circle
-					(center 0 0)
-					(radius 1.27)
-					(stroke
-						(width 1.27)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Seeed_Studio_XIAO_Series:XIAO-nRF52840-SMD"
 			(pin_names
 				(offset 1.016)
@@ -2258,16 +2175,6 @@
 		)
 		(uuid "7320a006-b956-4165-831f-18c50ee82779")
 	)
-	(text "Mounting Holes\n"
-		(exclude_from_sim no)
-		(at 35.56 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "7aff6140-37e5-46f9-9092-093f62bbaf19")
-	)
 	(text "Matrix\n"
 		(exclude_from_sim no)
 		(at 155.194 104.14 0)
@@ -3231,7 +3138,7 @@
 	(rule_area
 		(polyline
 			(pts
-				(xy 54.61 99.06) (xy 95.25 99.06) (xy 95.25 134.62) (xy 54.61 134.62)
+				(xy 133.35 30.48) (xy 201.93 30.48) (xy 201.93 96.52) (xy 133.35 96.52)
 			)
 			(stroke
 				(width 0)
@@ -3240,37 +3147,7 @@
 			(fill
 				(type none)
 			)
-			(uuid 30101665-995b-466e-9588-b887ae1714f3)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 25.4 63.5) (xy 50.8 63.5) (xy 50.8 97.79) (xy 25.4 97.79)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid 6fb3bb5a-c2fd-44cb-8d72-399b8750b429)
-		)
-	)
-	(rule_area
-		(polyline
-			(pts
-				(xy 54.61 30.48) (xy 130.81 30.48) (xy 130.81 96.52) (xy 54.61 96.52)
-			)
-			(stroke
-				(width 0)
-				(type dash)
-			)
-			(fill
-				(type none)
-			)
-			(uuid a2260d2f-9ca1-4ce1-a2ee-ca3701ce2e5d)
+			(uuid 06bae21e-a6df-451e-9613-ea942a414220)
 		)
 	)
 	(rule_area
@@ -3285,13 +3162,13 @@
 			(fill
 				(type none)
 			)
-			(uuid aada5605-42aa-4044-aad2-23c62bd4973c)
+			(uuid 730fe686-6afe-40ef-a6bd-65a5e84cd50b)
 		)
 	)
 	(rule_area
 		(polyline
 			(pts
-				(xy 133.35 30.48) (xy 201.93 30.48) (xy 201.93 96.52) (xy 133.35 96.52)
+				(xy 54.61 30.48) (xy 130.81 30.48) (xy 130.81 96.52) (xy 54.61 96.52)
 			)
 			(stroke
 				(width 0)
@@ -3300,7 +3177,22 @@
 			(fill
 				(type none)
 			)
-			(uuid c4d26b88-7f28-42ab-b5f2-a9d45fdbc8e7)
+			(uuid 824994d1-5cb0-46a7-a70b-bd813c9bf704)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 54.61 99.06) (xy 95.25 99.06) (xy 95.25 134.62) (xy 54.61 134.62)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 99cc5168-aad6-4980-90c9-250760839ad8)
 		)
 	)
 	(rule_area
@@ -3315,7 +3207,7 @@
 			(fill
 				(type none)
 			)
-			(uuid cf96c5c1-fb96-40df-b737-bf5b6714840b)
+			(uuid d0efb447-c315-420f-9d71-a505e61553ef)
 		)
 	)
 	(rule_area
@@ -3330,7 +3222,7 @@
 			(fill
 				(type none)
 			)
-			(uuid ee7c520d-56fe-4a45-8589-fde0f52032a1)
+			(uuid f5e10a09-353f-4ba6-a667-602b973ce5de)
 		)
 	)
 	(symbol
@@ -4439,70 +4331,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 33.02 71.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "71215ea6-4bca-4c20-878a-0811f3d45c5c")
-		(property "Reference" "H1"
-			(at 35.56 69.8499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "break off"
-			(at 35.56 72.3899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 33.02 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 33.02 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/88e80aa6-4760-4e33-b58c-7132d0ff0292"
-					(reference "H1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:D")
 		(at 189.23 120.65 90)
 		(unit 1)
@@ -4585,198 +4413,6 @@
 			(project "Split_Keyboard"
 				(path "/88e80aa6-4760-4e33-b58c-7132d0ff0292"
 					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 33.02 83.82 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7c1a05af-68a6-405c-be77-114fd57b7ea2")
-		(property "Reference" "H3"
-			(at 35.56 82.5499 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "break off"
-			(at 35.56 85.0899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 33.02 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 33.02 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Split_Keyboard"
-				(path "/88e80aa6-4760-4e33-b58c-7132d0ff0292"
-					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 33.02 90.17 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e779315-b6c9-4469-8ee3-fbd30f90c284")
-		(property "Reference" "H4"
-			(at 35.56 88.8999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "break off"
-			(at 35.56 91.4399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 33.02 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 33.02 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Split_Keyboard"
-				(path "/88e80aa6-4760-4e33-b58c-7132d0ff0292"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole")
-		(at 33.02 77.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7ecd88be-a627-4d77-9efa-f66d2bd53a58")
-		(property "Reference" "H2"
-			(at 35.56 76.1999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "break off"
-			(at 35.56 78.7399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 33.02 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Mounting Hole without connection"
-			(at 33.02 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Split_Keyboard"
-				(path "/88e80aa6-4760-4e33-b58c-7132d0ff0292"
-					(reference "H2")
 					(unit 1)
 				)
 			)
