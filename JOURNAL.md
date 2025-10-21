@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **TrlPad**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/377).
-
-
 ## 10/11/2025 - Followed the tutorial  
 
 This marks the start of my macropad. First time doing electronics. Special thanks to nimit and other people in the thread for encouraging me! They also suggested that I needed a deskop app. But for the hardware, the vision would something be like below:
@@ -118,4 +114,12 @@ However more problems arose with this approach. Then so, I decided I was going t
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--e63abc7fa635a0662a3cd19872a613d9f185f6b7/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--65c12c2b0a5b38d77c0adea9560d7aada39bf61b/image.png)
   
+
+## 10/21/2025 - Finished 3D Model  
+
+I finally am done with my case along with the keycaps and rotary encoder case. I copied the keycaps model directly from Orpheuspad credits to the project!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--13515724b4d5ed1d60a12a15c5ef635fe72e6fe0/image.png)
+
+I think I am quite satisfied with my first build. I don't want to over-engineer things and this model is simple yet punk-y enough!  
 
