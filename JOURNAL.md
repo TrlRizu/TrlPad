@@ -131,6 +131,7 @@ HI, I'm excited for this to be shipped. I finalized my bom.csv and README.md. I 
 
 
 but overall this was my BOM
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--25207d61552ad8339b0eee5fc9ffe94127ac1da9/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--33cb3b9c58f7b036f0a974944c75503e6542ca60/image.png)
+
   
 
