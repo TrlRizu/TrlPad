@@ -8,9 +8,8 @@ TrlPad is a 4-key macropad with a rotary encoder, an OLED display.
 - Rotary encoder with push-button for multi-function input
 - 0.91" 128x32 OLED dispvlay (SSD1306)
 - Powered by Seeed Studio XIAO nRF52840 (Bluetooth + USB)
-- Compact PCB layout with test points for debugging
-- Hand-solderable SMD components
-- Open-source hardware design (schematics and PCB files available)
+- Custom PCB
+
 
 ## How it evolved
 
