@@ -123,3 +123,14 @@ I finally am done with my case along with the keycaps and rotary encoder case. I
 
 I think I am quite satisfied with my first build. I don't want to over-engineer things and this model is simple yet punk-y enough!  
 
+## 10/23/2025 - BOM  
+
+HI, I'm excited for this to be shipped. I finalized my bom.csv and README.md. I looked through AliExpress for parts and JLCPCB for PCB quotes. I am experiencing some troubles with 3D printing though, not sure where I'd be getting that for my case. I explored the option of #printing-legion as suggested but they're all way too far from where I am. If that doesn't work out I guess, I'll try to source a 3D printing shop or friends and I'll cover the cost on my own. But so far as I've checked with 3D-ing(?) website, it would cost $16? I would definitely want it to be lower since it's not that complicated of a model. Below is a picture attached:
+
+[cost](screenshots/3dCase_bill.png) 
+
+
+but overall this was my BOM
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDY3MywicHVyIjoiYmxvYl9pZCJ9fQ==--25207d61552ad8339b0eee5fc9ffe94127ac1da9/image.png)
+  
+
