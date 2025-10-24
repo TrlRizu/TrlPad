@@ -135,3 +135,15 @@ but overall this was my BOM
 
   
 
+## 10/24/2025 - Updated PCB  
+
+
+Hello I updated my PCB, removed the passive capacitors and resistors connected to the rotary encoder!
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTExMywicHVyIjoiYmxvYl9pZCJ9fQ==--b826773d836b491bf2e6a856b01cab3e4a77cb43/image.png)
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTExNCwicHVyIjoiYmxvYl9pZCJ9fQ==--dba7ab374fd872a039fadd677e82a718c63bb7bc/image.png)
+
+
+Apart from that somebody from printing legion can in fact help me! So it was quoted that the shipping cost would be $12-$17? I think that should be still under our given grant of $45?  
+
