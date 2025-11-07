@@ -147,3 +147,27 @@ Hello I updated my PCB, removed the passive capacitors and resistors connected t
 
 Apart from that somebody from printing legion can in fact help me! So it was quoted that the shipping cost would be $12-$17? I think that should be still under our given grant of $45?  
 
+## 11/8/2025 - Blinked My First LED  
+
+I used the built-in RGB LED in the XIAO SEEED ESP32-NRF52840
+
+I created a program that made it blink alternately, very simple but I also explored the possible ways I can make my firmware for the Macropad. I'll discuss it below, but here are some pics:
+
+![1000136996](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE2MywicHVyIjoiYmxvYl9pZCJ9fQ==--cc77222a926e84792488c999f41332c9d65344f1/1000136996.jpg)
+![1000136998](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--705114d28e3bbe799c220cbfc39ff06575b55331/1000136998.jpg)![1000136997](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTE2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--e21fd7d1027cc77d4087c14fb707a543513c1de3/1000136997.jpg)
+
+
+## Application: 
+Python-side
+- Tkinter (GUI) 
+- Reads battery percentage (psutil) and Spotify info (spotipy).
+- Combines data into a string (e.g., "85|Song Name|Artist Name\n").
+- Sends the string over the USB serial port to ESP32.
+- Packaged by PyInstaller
+ESP32-side
+- Reads incoming serial data.
+- Parses string into battery, song, and artist.
+- Updates OLED display accordingly.
+
+I also just realized how tiny the OLED display is, will make it condensed yet still aesthetic.   
+
